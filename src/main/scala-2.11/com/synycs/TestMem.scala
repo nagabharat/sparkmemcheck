@@ -21,7 +21,12 @@ object TestMem {
 
     val rows=spark.sparkContext.textFile("/home/synycs/rows.json")
 
+    val df=spark.read.json("/home/synycs/rows.json")
+    df.printSchema()
+    df.show()
+
     println(rows.count())
+    spark.stop()
 
   }
 
