@@ -22,7 +22,9 @@ object TestMem {
     val rows=spark.sparkContext.textFile("/home/synycs/rows.json")
 
     val df=spark.read.json("/home/synycs/rows.json")
-    df.printSchema()
+    df.schema.foreach{
+      x=>println(x)
+    }
     df.show()
 
     println(rows.count())
