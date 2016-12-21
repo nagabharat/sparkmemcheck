@@ -4,7 +4,7 @@ output mode:
 0 -> single
 output directories:
 1 items
-output dir -> /home/synycs/scala/proj/target/scala-2.11/classes
+output dir -> /home/synycs/sparkmemcheck/target/scala-2.11/classes
 compile options:
 0 items
 javac options:
@@ -20,60 +20,60 @@ name hashing:
 0 -> true
 products:
 24 items
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> /home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/OpenCsvTest$.class
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> /home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/OpenCsvTest.class
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> /home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/ParquetCheck$.class
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> /home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/ParquetCheck.class
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> /home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/SparkManipulation$$anonfun$1.class
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> /home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/SparkManipulation$$anonfun$2.class
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> /home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/SparkManipulation$$anonfun$getListOfFiles$1.class
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> /home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/SparkManipulation$$anonfun$main$1.class
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> /home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/SparkManipulation$.class
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> /home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/SparkManipulation.class
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> /home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/SparkXml$$anonfun$getListOfFiles$1.class
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> /home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/SparkXml$$anonfun$main$1.class
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> /home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/SparkXml$.class
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> /home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/SparkXml.class
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> /home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/TDF_IDF$$anonfun$main$1.class
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> /home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/TDF_IDF$$anonfun$main$2.class
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> /home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/TDF_IDF$$typecreator1$1.class
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> /home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/TDF_IDF$.class
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> /home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/TDF_IDF.class
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> /home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/TestCsv$$anonfun$main$1.class
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> /home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/TestCsv$.class
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> /home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/TestCsv.class
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> /home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/TestMem$.class
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> /home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/TestMem.class
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> /home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/OpenCsvTest$.class
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> /home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/OpenCsvTest.class
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> /home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/ParquetCheck$.class
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> /home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/ParquetCheck.class
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> /home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/SparkManipulation$$anonfun$1.class
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> /home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/SparkManipulation$$anonfun$2.class
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> /home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/SparkManipulation$$anonfun$getListOfFiles$1.class
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> /home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/SparkManipulation$$anonfun$main$1.class
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> /home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/SparkManipulation$.class
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> /home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/SparkManipulation.class
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> /home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/SparkXml$$anonfun$getListOfFiles$1.class
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> /home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/SparkXml$$anonfun$main$1.class
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> /home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/SparkXml$.class
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> /home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/SparkXml.class
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> /home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/TDF_IDF$$anonfun$main$1.class
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> /home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/TDF_IDF$$anonfun$main$2.class
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> /home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/TDF_IDF$$typecreator1$1.class
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> /home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/TDF_IDF$.class
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> /home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/TDF_IDF.class
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> /home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/TestCsv$$anonfun$main$1.class
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> /home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/TestCsv$.class
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> /home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/TestCsv.class
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> /home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/TestMem$.class
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> /home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/TestMem.class
 binary dependencies:
 28 items
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> /home/synycs/.ivy2/cache/com.univocity/univocity-parsers/jars/univocity-parsers-2.1.1.jar
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> /home/synycs/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> /home/synycs/jdk1.8.0_91/jre/lib/rt.jar
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> /home/synycs/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.2.jar
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> /home/synycs/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> /home/synycs/jdk1.8.0_91/jre/lib/rt.jar
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> /home/synycs/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.2.jar
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> /home/synycs/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> /home/synycs/jdk1.8.0_91/jre/lib/rt.jar
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> /home/synycs/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.0.2.jar
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> /home/synycs/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.2.jar
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> /home/synycs/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.2.jar
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> /home/synycs/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> /home/synycs/jdk1.8.0_91/jre/lib/rt.jar
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> /home/synycs/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.0.2.jar
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> /home/synycs/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-2.0.2.jar
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> /home/synycs/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.2.jar
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> /home/synycs/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> /home/synycs/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> /home/synycs/jdk1.8.0_91/jre/lib/rt.jar
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> /home/synycs/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.0.2.jar
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> /home/synycs/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.2.jar
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> /home/synycs/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> /home/synycs/jdk1.8.0_91/jre/lib/rt.jar
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> /home/synycs/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.2.jar
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> /home/synycs/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.2.jar
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> /home/synycs/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> /home/synycs/jdk1.8.0_91/jre/lib/rt.jar
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> /home/synycs/.ivy2/cache/com.univocity/univocity-parsers/jars/univocity-parsers-2.1.1.jar
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> /home/synycs/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> /home/synycs/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.2.jar
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> /home/synycs/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> /home/synycs/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.2.jar
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> /home/synycs/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> /home/synycs/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.0.2.jar
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> /home/synycs/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.2.jar
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> /home/synycs/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.2.jar
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> /home/synycs/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> /home/synycs/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.0.2.jar
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> /home/synycs/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-2.0.2.jar
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> /home/synycs/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.2.jar
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> /home/synycs/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> /home/synycs/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> /home/synycs/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.0.2.jar
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> /home/synycs/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.2.jar
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> /home/synycs/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> /home/synycs/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.2.jar
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> /home/synycs/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.2.jar
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> /home/synycs/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
 direct source dependencies:
 0 items
 direct external dependencies:
@@ -92,418 +92,414 @@ inheritance external dependencies:
 0 items
 class names:
 24 items
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> com.synycs.OpenCsvTest
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> com.synycs.OpenCsvTest$
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> com.synycs.ParquetCheck
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> com.synycs.ParquetCheck$
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> com.synycs.SparkManipulation
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> com.synycs.SparkManipulation$
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> com.synycs.SparkManipulation$$anonfun$1
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> com.synycs.SparkManipulation$$anonfun$2
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> com.synycs.SparkManipulation$$anonfun$getListOfFiles$1
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> com.synycs.SparkManipulation$$anonfun$main$1
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> com.synycs.SparkXml
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> com.synycs.SparkXml$
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> com.synycs.SparkXml$$anonfun$getListOfFiles$1
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> com.synycs.SparkXml$$anonfun$main$1
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> com.synycs.TDF_IDF
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> com.synycs.TDF_IDF$
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> com.synycs.TDF_IDF$$anonfun$main$1
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> com.synycs.TDF_IDF$$anonfun$main$2
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> com.synycs.TDF_IDF$$typecreator1$1
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> com.synycs.TestCsv
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> com.synycs.TestCsv$
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> com.synycs.TestCsv$$anonfun$main$1
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> com.synycs.TestMem
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> com.synycs.TestMem$
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> com.synycs.OpenCsvTest
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> com.synycs.OpenCsvTest$
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> com.synycs.ParquetCheck
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> com.synycs.ParquetCheck$
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> com.synycs.SparkManipulation
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> com.synycs.SparkManipulation$
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> com.synycs.SparkManipulation$$anonfun$1
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> com.synycs.SparkManipulation$$anonfun$2
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> com.synycs.SparkManipulation$$anonfun$getListOfFiles$1
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> com.synycs.SparkManipulation$$anonfun$main$1
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> com.synycs.SparkXml
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> com.synycs.SparkXml$
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> com.synycs.SparkXml$$anonfun$getListOfFiles$1
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> com.synycs.SparkXml$$anonfun$main$1
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> com.synycs.TDF_IDF
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> com.synycs.TDF_IDF$
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> com.synycs.TDF_IDF$$anonfun$main$1
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> com.synycs.TDF_IDF$$anonfun$main$2
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> com.synycs.TDF_IDF$$typecreator1$1
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> com.synycs.TestCsv
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> com.synycs.TestCsv$
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> com.synycs.TestCsv$$anonfun$main$1
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> com.synycs.TestMem
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> com.synycs.TestMem$
 used names:
-347 items
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> <init>
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> AnyRef
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> Array
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> CsvParser
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> CsvParserSettings
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> FileInputStream
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> OpenCsvTest
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> Predef
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> String
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> Unit
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> allRows
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> call
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> com
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> csv
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> getFormat
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> io
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> java
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> parseAll
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> parser
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> parsers
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> println
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> scala
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> setLineSeparator
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> setMaxCharsPerColumn
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> setQuote
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> settings
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> size
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> synycs
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> univocity
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> <init>
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> AnyRef
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> Array
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> DataFrame
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> ParquetCheck
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> Predef
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> SparkSession
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> String
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> Unit
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> apache
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> appName
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> builder
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> com
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> createOrReplaceTempView
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> format
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> getOrCreate
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> load
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> loaded
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> master
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> org
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> package
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> printSchema
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> read
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> scala
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> show
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> spark
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> sql
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> synycs
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> &&
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> +
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> <init>
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> AnyRef
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> Array
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> ClassTag
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> File
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> List
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> Nil
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> Ordering
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> Path
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> Predef
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> Seq
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> SparkConf
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> SparkContext
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> SparkManipulation
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> String
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> Unit
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> all
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> apache
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> apply
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> bot
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> collection
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> com
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> conf
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> contains
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> d
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> dir
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> etlOnFile
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> exists
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> f
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> file
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> filter
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> foreach
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> getAbsolutePath
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> getListOfFiles
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> getName
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> immutable
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> io
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> isDirectory
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> isFile
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> java
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> listFiles
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> map
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> materializeClassTag
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> math
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> nio
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> org
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> package
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> parallelize
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> refArrayOps
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> rep
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> repartition
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> replaceAll
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> saveAsTextFile
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> sc
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> scala
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> setAppName
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> setMaster
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> spark
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> stream
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> synycs
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> textFile
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> toList
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> top
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> unary_!
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> union
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> util
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> x
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> y
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> &&
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> +
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> <init>
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> ==
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> AnyRef
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> Array
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> DataFrame
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> DoubleType
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> File
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> List
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> Nil
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> None
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> Option
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> Predef
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> RDD
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> SparkConf
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> SparkContext
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> SparkSession
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> SparkXml
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> String
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> StringType
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> StructField
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> StructType
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> Unit
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> all
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> apache
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> appName
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> asInstanceOf
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> builder
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> com
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> count
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> createOrReplaceTempView
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> d
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> data
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> dir
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> exists
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> file
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> fileSchema
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> files
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> filter
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> forSchema
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> foreach
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> format
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> getAbsolutePath
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> getListOfFiles
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> getOrCreate
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> immutable
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> io
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> isDirectory
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> isInstanceOf
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> java
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> listFiles
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> load
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> loaded
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> master
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> option
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> org
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> package
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> printSchema
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> println
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> rdd
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> read
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> refArrayOps
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> save
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> scala
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> schema
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> spark
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> sql
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> synycs
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> toList
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> types
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> union
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> write
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> x
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> $m
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> $m$untyped
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> $typecreator1
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> $u
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> <init>
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> AnyRef
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> Array
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> HashingTF
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> IDF
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> List
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> Mirror
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> Nothing
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> Predef
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> Seq
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> Singleton
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> SparkSession
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> String
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> TDF_IDF
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> ThisType
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> Tokenizer
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> Type
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> TypeCreator
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> TypeRef
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> TypeTag
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> U
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> Unit
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> Universe
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> apache
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> appName
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> apply
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> asInstanceOf
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> asModule
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> asType
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> builder
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> collection
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> com
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> createDataFrame
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> feature
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> featurizedData
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> fit
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> foreach
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> getClass
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> getClassLoader
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> getOrCreate
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> hashingTF
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> idf
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> idfModel
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> immutable
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> internal
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> master
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> materializeTypeTag
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> ml
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> moduleClass
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> org
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> package
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> println
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> reflect
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> reificationSupport
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> rescaledData
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> runtime
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> runtimeMirror
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> scala
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> select
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> sentenceData
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> setInputCol
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> setNumFeatures
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> setOutputCol
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> show
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> spark
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> sql
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> staticClass
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> staticPackage
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> stop
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> synycs
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> toDF
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> toTypeConstructor
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> tokenizer
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> transform
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> universe
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> wordsData
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> x
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> <init>
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> AnyRef
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> Array
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> File
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> Predef
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> SparkSession
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> String
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> TestCsv
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> Unit
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> apache
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> appName
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> builder
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> com
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> dat
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> foreach
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> format
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> getOrCreate
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> io
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> java
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> load
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> master
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> option
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> org
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> print
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> println
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> read
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> scala
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> select
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> show
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> spark
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> sql
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> synycs
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> x
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> <init>
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> AnyRef
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> Array
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> Predef
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> Seq
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> SparkConf
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> SparkSession
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> String
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> TestMem
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> Unit
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> apache
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> apply
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> builder
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> collection
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> com
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> conf
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> config
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> count
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> getOrCreate
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> org
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> println
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> rows
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> scala
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> setAppName
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> setJars
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> setMaster
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> setSparkHome
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> spark
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> sparkContext
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> sql
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> synycs
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> textFile
+343 items
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> <init>
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> AnyRef
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> Array
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> CsvParser
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> CsvParserSettings
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> FileInputStream
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> OpenCsvTest
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> Predef
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> String
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> Unit
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> allRows
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> call
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> com
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> csv
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> getFormat
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> io
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> java
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> parseAll
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> parser
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> parsers
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> println
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> scala
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> setLineSeparator
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> setMaxCharsPerColumn
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> setQuote
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> settings
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> size
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> synycs
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> univocity
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> <init>
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> AnyRef
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> Array
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> DataFrame
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> ParquetCheck
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> Predef
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> SparkSession
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> String
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> Unit
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> apache
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> appName
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> builder
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> com
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> createOrReplaceTempView
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> format
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> getOrCreate
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> load
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> loaded
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> master
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> org
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> package
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> printSchema
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> read
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> scala
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> show
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> spark
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> sql
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> synycs
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> &&
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> +
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> <init>
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> AnyRef
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> Array
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> ClassTag
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> File
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> List
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> Nil
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> Ordering
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> Path
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> Predef
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> Seq
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> SparkConf
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> SparkContext
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> SparkManipulation
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> String
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> Unit
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> all
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> apache
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> apply
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> bot
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> collection
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> com
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> conf
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> contains
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> d
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> dir
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> etlOnFile
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> exists
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> f
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> file
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> filter
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> foreach
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> getAbsolutePath
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> getListOfFiles
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> getName
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> immutable
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> io
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> isDirectory
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> isFile
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> java
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> listFiles
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> map
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> materializeClassTag
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> math
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> nio
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> org
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> package
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> parallelize
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> refArrayOps
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> rep
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> repartition
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> replaceAll
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> saveAsTextFile
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> sc
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> scala
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> setAppName
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> setMaster
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> spark
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> stream
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> synycs
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> textFile
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> toList
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> top
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> unary_!
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> union
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> util
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> x
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> y
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> &&
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> +
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> <init>
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> ==
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> AnyRef
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> Array
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> DataFrame
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> DoubleType
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> File
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> List
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> Nil
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> None
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> Option
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> Predef
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> RDD
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> SparkConf
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> SparkContext
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> SparkSession
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> SparkXml
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> String
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> StringType
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> StructField
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> StructType
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> Unit
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> all
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> apache
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> appName
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> asInstanceOf
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> builder
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> com
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> count
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> createOrReplaceTempView
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> d
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> data
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> dir
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> exists
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> file
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> fileSchema
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> files
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> filter
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> forSchema
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> foreach
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> format
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> getAbsolutePath
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> getListOfFiles
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> getOrCreate
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> immutable
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> io
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> isDirectory
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> isInstanceOf
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> java
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> listFiles
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> load
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> loaded
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> master
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> option
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> org
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> package
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> printSchema
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> println
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> rdd
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> read
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> refArrayOps
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> save
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> scala
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> schema
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> spark
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> sql
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> synycs
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> toList
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> types
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> union
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> write
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> x
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> $m
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> $m$untyped
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> $typecreator1
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> $u
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> <init>
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> AnyRef
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> Array
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> HashingTF
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> IDF
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> List
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> Mirror
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> Nothing
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> Predef
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> Seq
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> Singleton
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> SparkSession
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> String
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> TDF_IDF
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> ThisType
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> Tokenizer
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> Type
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> TypeCreator
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> TypeRef
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> TypeTag
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> U
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> Unit
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> Universe
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> apache
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> appName
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> apply
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> asInstanceOf
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> asModule
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> asType
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> builder
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> collection
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> com
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> createDataFrame
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> feature
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> featurizedData
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> fit
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> foreach
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> getClass
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> getClassLoader
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> getOrCreate
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> hashingTF
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> idf
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> idfModel
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> immutable
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> internal
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> master
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> materializeTypeTag
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> ml
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> moduleClass
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> org
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> package
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> println
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> reflect
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> reificationSupport
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> rescaledData
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> runtime
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> runtimeMirror
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> scala
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> select
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> sentenceData
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> setInputCol
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> setNumFeatures
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> setOutputCol
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> show
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> spark
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> sql
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> staticClass
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> staticPackage
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> stop
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> synycs
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> toDF
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> toTypeConstructor
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> tokenizer
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> transform
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> universe
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> wordsData
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> x
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> <init>
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> AnyRef
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> Array
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> File
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> Predef
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> SparkSession
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> String
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> TestCsv
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> Unit
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> apache
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> appName
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> builder
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> com
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> dat
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> foreach
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> format
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> getOrCreate
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> io
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> java
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> load
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> master
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> option
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> org
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> print
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> println
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> read
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> scala
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> select
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> show
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> spark
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> sql
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> synycs
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> x
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> <init>
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> AnyRef
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> Array
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> Predef
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> SparkConf
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> SparkSession
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> String
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> TestMem
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> Unit
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> apache
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> builder
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> com
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> conf
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> config
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> count
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> getOrCreate
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> org
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> println
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> rows
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> scala
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> setAppName
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> setMaster
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> setSparkHome
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> spark
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> sparkContext
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> sql
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> synycs
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> textFile
 product stamps:
 24 items
-/home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/OpenCsvTest$.class -> lastModified(1482328023000)
-/home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/OpenCsvTest.class -> lastModified(1482328023000)
-/home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/ParquetCheck$.class -> lastModified(1482328023000)
-/home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/ParquetCheck.class -> lastModified(1482328023000)
-/home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/SparkManipulation$$anonfun$1.class -> lastModified(1482328023000)
-/home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/SparkManipulation$$anonfun$2.class -> lastModified(1482328023000)
-/home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/SparkManipulation$$anonfun$getListOfFiles$1.class -> lastModified(1482328023000)
-/home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/SparkManipulation$$anonfun$main$1.class -> lastModified(1482328023000)
-/home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/SparkManipulation$.class -> lastModified(1482328023000)
-/home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/SparkManipulation.class -> lastModified(1482328023000)
-/home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/SparkXml$$anonfun$getListOfFiles$1.class -> lastModified(1482328023000)
-/home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/SparkXml$$anonfun$main$1.class -> lastModified(1482328023000)
-/home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/SparkXml$.class -> lastModified(1482328023000)
-/home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/SparkXml.class -> lastModified(1482328023000)
-/home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/TDF_IDF$$anonfun$main$1.class -> lastModified(1482328023000)
-/home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/TDF_IDF$$anonfun$main$2.class -> lastModified(1482328023000)
-/home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/TDF_IDF$$typecreator1$1.class -> lastModified(1482328023000)
-/home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/TDF_IDF$.class -> lastModified(1482328023000)
-/home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/TDF_IDF.class -> lastModified(1482328023000)
-/home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/TestCsv$$anonfun$main$1.class -> lastModified(1482328023000)
-/home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/TestCsv$.class -> lastModified(1482328023000)
-/home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/TestCsv.class -> lastModified(1482328023000)
-/home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/TestMem$.class -> lastModified(1482328825000)
-/home/synycs/scala/proj/target/scala-2.11/classes/com/synycs/TestMem.class -> lastModified(1482328825000)
+/home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/OpenCsvTest$.class -> lastModified(1482338962000)
+/home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/OpenCsvTest.class -> lastModified(1482338962000)
+/home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/ParquetCheck$.class -> lastModified(1482338962000)
+/home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/ParquetCheck.class -> lastModified(1482338962000)
+/home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/SparkManipulation$$anonfun$1.class -> lastModified(1482338962000)
+/home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/SparkManipulation$$anonfun$2.class -> lastModified(1482338962000)
+/home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/SparkManipulation$$anonfun$getListOfFiles$1.class -> lastModified(1482338962000)
+/home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/SparkManipulation$$anonfun$main$1.class -> lastModified(1482338962000)
+/home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/SparkManipulation$.class -> lastModified(1482338962000)
+/home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/SparkManipulation.class -> lastModified(1482338962000)
+/home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/SparkXml$$anonfun$getListOfFiles$1.class -> lastModified(1482338962000)
+/home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/SparkXml$$anonfun$main$1.class -> lastModified(1482338962000)
+/home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/SparkXml$.class -> lastModified(1482338962000)
+/home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/SparkXml.class -> lastModified(1482338962000)
+/home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/TDF_IDF$$anonfun$main$1.class -> lastModified(1482338962000)
+/home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/TDF_IDF$$anonfun$main$2.class -> lastModified(1482338962000)
+/home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/TDF_IDF$$typecreator1$1.class -> lastModified(1482338962000)
+/home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/TDF_IDF$.class -> lastModified(1482338962000)
+/home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/TDF_IDF.class -> lastModified(1482338962000)
+/home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/TestCsv$$anonfun$main$1.class -> lastModified(1482338962000)
+/home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/TestCsv$.class -> lastModified(1482338962000)
+/home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/TestCsv.class -> lastModified(1482338962000)
+/home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/TestMem$.class -> lastModified(1482342643000)
+/home/synycs/sparkmemcheck/target/scala-2.11/classes/com/synycs/TestMem.class -> lastModified(1482342643000)
 source stamps:
 11 items
-/home/synycs/scala/proj/src/main/java/com/synycs/sax/UserHandler.java -> hash(ce0b0a2f77aaf85af8ef137c7eaf6e5cf660686a)
-/home/synycs/scala/proj/src/main/java/com/synycs/sax/sax1/SaxParserDemo.java -> hash(b1e8ac562c9b7fda50fdba06f42acc2fe5a6e9a5)
-/home/synycs/scala/proj/src/main/java/com/synycs/sax/sax1/StaxTest.java -> hash(3f5733d1e33c99434e1c4278ce5844df8ac24c11)
-/home/synycs/scala/proj/src/main/java/com/synycs/sax/sax1/UserHandler.java -> hash(bb6aaaaae0cd0845101c2c99a917943d6e30820c)
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> hash(56d4340cd21fafe36926265a7dd5699bce916379)
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> hash(a75d9d20389b5f92a3e581f0a0dc79f48b1a792c)
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> hash(b41452b83ac3dd0f43b356713760def248d3e00b)
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> hash(7e88b3a13f2bbe9ca2c2f3edf6ff3ddad6ab0546)
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> hash(71262f6b1c83d2140b1533e501efede9169176df)
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> hash(e054299479d3a0b4c47fd7f8b25cb97bc96a4781)
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> hash(1ebbc01ef7bb19662cc708e97574b25557f2d1fd)
+/home/synycs/sparkmemcheck/src/main/java/com/synycs/sax/UserHandler.java -> hash(ce0b0a2f77aaf85af8ef137c7eaf6e5cf660686a)
+/home/synycs/sparkmemcheck/src/main/java/com/synycs/sax/sax1/SaxParserDemo.java -> hash(b1e8ac562c9b7fda50fdba06f42acc2fe5a6e9a5)
+/home/synycs/sparkmemcheck/src/main/java/com/synycs/sax/sax1/StaxTest.java -> hash(3f5733d1e33c99434e1c4278ce5844df8ac24c11)
+/home/synycs/sparkmemcheck/src/main/java/com/synycs/sax/sax1/UserHandler.java -> hash(bb6aaaaae0cd0845101c2c99a917943d6e30820c)
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> hash(56d4340cd21fafe36926265a7dd5699bce916379)
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> hash(a75d9d20389b5f92a3e581f0a0dc79f48b1a792c)
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> hash(b41452b83ac3dd0f43b356713760def248d3e00b)
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> hash(7e88b3a13f2bbe9ca2c2f3edf6ff3ddad6ab0546)
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> hash(71262f6b1c83d2140b1533e501efede9169176df)
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> hash(e054299479d3a0b4c47fd7f8b25cb97bc96a4781)
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> hash(eeb7d462c714682ce1914d710621730b311470c2)
 binary stamps:
 8 items
 /home/synycs/.ivy2/cache/com.univocity/univocity-parsers/jars/univocity-parsers-2.1.1.jar -> lastModified(1462864217000)
@@ -511,70 +507,73 @@ binary stamps:
 /home/synycs/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.2.jar -> lastModified(1478576545000)
 /home/synycs/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-2.0.2.jar -> lastModified(1478576957000)
 /home/synycs/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.2.jar -> lastModified(1478576896000)
-/home/synycs/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457496963000)
-/home/synycs/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar -> lastModified(1457496962000)
-/home/synycs/jdk1.8.0_91/jre/lib/rt.jar -> lastModified(1459498012000)
+/home/synycs/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
+/home/synycs/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar -> lastModified(1457105200000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1482338336000)
 class names:
 8 items
-/home/synycs/.ivy2/cache/com.univocity/univocity-parsers/jars/univocity-parsers-2.1.1.jar -> com.univocity.parsers.common.CommonSettings
+/home/synycs/.ivy2/cache/com.univocity/univocity-parsers/jars/univocity-parsers-2.1.1.jar -> com.univocity.parsers.common.Format
 /home/synycs/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.0.2.jar -> org.apache.spark.sql.Row
-/home/synycs/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.2.jar -> org.apache.spark.rdd.RDD
+/home/synycs/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.2.jar -> org.apache.spark.SparkContext
 /home/synycs/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-2.0.2.jar -> org.apache.spark.ml.feature.HashingTF
-/home/synycs/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.2.jar -> org.apache.spark.sql.SparkSession$
-/home/synycs/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.Predef$
+/home/synycs/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.2.jar -> org.apache.spark.sql.SparkSession
+/home/synycs/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.Array
 /home/synycs/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar -> scala.reflect.api.TypeCreator
-/home/synycs/jdk1.8.0_91/jre/lib/rt.jar -> java.lang.Object
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
 internal apis:
 11 items
-/home/synycs/scala/proj/src/main/java/com/synycs/sax/UserHandler.java -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC4IVHqAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWSGhrAR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+ABp4cHQAMS9ob21lL3N5bnljcy9zY2FsYS9wcm9qL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTOCwovd6r4WvjvE3x+r25c9mBoag==
-/home/synycs/scala/proj/src/main/java/com/synycs/sax/sax1/SaxParserDemo.java -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC4IVHqAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWSGhrAR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+ABp4cHQAMS9ob21lL3N5bnljcy9zY2FsYS9wcm9qL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSx6KxWLJt/2lD9ugb0Kswv5abppQ==
-/home/synycs/scala/proj/src/main/java/com/synycs/sax/sax1/StaxTest.java -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC4IVHqAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWSGhrAR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+ABp4cHQAMS9ob21lL3N5bnljcy9zY2FsYS9wcm9qL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQ/VzPR4zyZQ04cQnjOWETfisJMEQ==
-/home/synycs/scala/proj/src/main/java/com/synycs/sax/sax1/UserHandler.java -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC4IVHqAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWSGhrAR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+ABp4cHQAMS9ob21lL3N5bnljcy9zY2FsYS9wcm9qL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABS7aqqq4M0IRRAcLJmpF5Q9bjCCDA==
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB8L6D6AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAF3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cDV9bQF0AAZub3RpZnlzcQB+AAzdOtYwdAAEd2FpdHNxAH4ADOar0St0AA0kYXNJbnN0YW5jZU9mc3EAfgAMDGFSHXQABmVxdWFsc3NxAH4ADGer8lh0AAxhc0luc3RhbmNlT2ZzcQB+AAzJ3P6adAARb3BlbkNzdlBhcnNlckRhdGFzcQB+AAyank2MdAAMc3luY2hyb25pemVkc3EAfgAMgEXME3QADSRpc0luc3RhbmNlT2ZzcQB+AAwNlc7pdAAEbWFpbnNxAH4ADNTAyRx0AAlub3RpZnlBbGxzcQB+AAyBd229dAALT3BlbkNzdlRlc3RzcQB+AAyRYm5BdAAMaXNJbnN0YW5jZU9mc3EAfgAMrac9mXQAAj09c3EAfgAMOKUCfnQABWNsb25lc3EAfgAMGaysNHQACHRvU3RyaW5nc3EAfgAMlRcb03QAAiE9c3EAfgAM1LDEs3QACGdldENsYXNzc3EAfgAMsxtG43QAAm5lc3EAfgAMTap1ZHQABGNhbGxzcQB+AAxTtaaFdAACZXFzcQB+AAyVf0MHdAACIyNzcQB+AAyI2g7bdAAIZmluYWxpemVzcQB+AAyDruQKdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBFeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAWY29tLnN5bnljcy5PcGVuQ3N2VGVzdHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AF54cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF0AcHNxAH4AYnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBFTAAJaW5oZXJpdGVkcQB+AEVMAAdwYXJlbnRzcQB+AEV4cQB+AGZzcQB+AF0AcHNxAH4AYnVxAH4AQAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ARnEAfgBPdXEAfgBQAAAAAHNxAH4AUgBxAH4AH3VxAH4AVQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBldAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ag3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHB4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFh0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AHdbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGVzcQB+AHZ0AAVBcnJheXEAfgB8dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AHZ0AAZTdHJpbmdzcQB+AHpzcQB+AH11cQB+AIAAAAADc3EAfgCCdAAEamF2YXNxAH4AgnQABGxhbmdxAH4Ah3NxAH4AXQBwc3EAfgBidXEAfgBAAAAAAHNxAH4AXQBwc3EAfgBidXEAfgCbAAAAAnNxAH4AdnQABk9iamVjdHEAfgCfc3EAfgB2dAADQW55cQB+AHx1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AApjb20uc3lueWNzc3EAfgCydAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFZIaGsBHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADEvaG9tZS9zeW55Y3Mvc2NhbGEvcHJvai90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUVtQ0DNIfr+NpJiZafdVpm86RY3k=
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAKzsRbAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cB3o+PN0AAZub3RpZnlzcQB+AAyMQ1E3dAAEd2FpdHNxAH4ADJ6kwu90AA0kYXNJbnN0YW5jZU9mc3EAfgAMYqPAHnQABmVxdWFsc3NxAH4ADGc75Md0AAxhc0luc3RhbmNlT2ZzcQB+AAwKpkl6dAAMc3luY2hyb25pemVkc3EAfgAMnfgswHQADSRpc0luc3RhbmNlT2ZzcQB+AAwHLJx+dAAEbWFpbnNxAH4ADNLvVWx0AAlub3RpZnlBbGxzcQB+AAwlSy09dAAMaXNJbnN0YW5jZU9mc3EAfgAMN3VyY3QAAj09c3EAfgAMYWTKInQABWNsb25lc3EAfgAML6kO+nQACHRvU3RyaW5nc3EAfgAMh2F0v3QADFBhcnF1ZXRDaGVja3NxAH4ADD3jbGh0AAIhPXNxAH4ADPlYyw90AAhnZXRDbGFzc3NxAH4ADCJK8S10AAJuZXNxAH4ADEiH1AB0AAJlcXNxAH4ADKoDBE10AAIjI3NxAH4ADKALCrt0AAhmaW5hbGl6ZXNxAH4ADIYU6V90AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABdjb20uc3lueWNzLlBhcnF1ZXRDaGVja3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AFp4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFkAcHNxAH4AXnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AGJzcQB+AFkAcHNxAH4AXnVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBhdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Af3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGx4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AHNbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGFzcQB+AHJ0AAVBcnJheXEAfgB4dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AHJ0AAZTdHJpbmdzcQB+AHZzcQB+AHl1cQB+AHwAAAADc3EAfgB+dAAEamF2YXNxAH4AfnQABGxhbmdxAH4Ag3NxAH4AWQBwc3EAfgBedXEAfgA8AAAAAHNxAH4AWQBwc3EAfgBedXEAfgCXAAAAAnNxAH4AcnQABk9iamVjdHEAfgCbc3EAfgBydAADQW55cQB+AHh1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AApjb20uc3lueWNzc3EAfgCudAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFZIaGsBHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADEvaG9tZS9zeW55Y3Mvc2NhbGEvcHJvai90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUp12dIDibX5Kj5YHwoNx59IsaeSw=
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAqeDgWAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAF3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cF9l0Xx0AAZub3RpZnlzcQB+AAxUnLHXdAAEd2FpdHNxAH4ADFQQQat0AA0kYXNJbnN0YW5jZU9mc3EAfgAMCuIhwnQABmVxdWFsc3NxAH4ADMcWpMp0AAxhc0luc3RhbmNlT2ZzcQB+AAx4DwZ3dAAMc3luY2hyb25pemVkc3EAfgAMPP3BgHQAEVNwYXJrTWFuaXB1bGF0aW9uc3EAfgAMiYaGzHQADSRpc0luc3RhbmNlT2ZzcQB+AAw+diaTdAAEbWFpbnNxAH4ADP2pY5t0AAlub3RpZnlBbGxzcQB+AAythcV6dAAMaXNJbnN0YW5jZU9mc3EAfgAMYsZKwXQADmdldExpc3RPZkZpbGVzc3EAfgAMWVrtb3QAAj09c3EAfgAMAlFU+XQABWNsb25lc3EAfgAMJAklPXQACWV0bE9uRmlsZXNxAH4ADE3Ulu90AAh0b1N0cmluZ3NxAH4ADAeYE950AAIhPXNxAH4ADDNVABt0AAhnZXRDbGFzc3NxAH4ADMXh+p10AAJuZXNxAH4ADNy5Eox0AAJlcXNxAH4ADL0FKg50AAIjI3NxAH4ADM1uZCx0AAhmaW5hbGl6ZXNxAH4ADIYVe610AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABxjb20uc3lueWNzLlNwYXJrTWFuaXB1bGF0aW9udXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AXnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AXQBwc3EAfgBic3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEVMAAlpbmhlcml0ZWRxAH4ARUwAB3BhcmVudHNxAH4ARXhxAH4AZnNxAH4AXQBwc3EAfgBidXEAfgBAAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBGcQB+AE91cQB+AFAAAAAAc3EAfgBSAHEAfgAfdXEAfgBVAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGV0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBlc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCDdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AcHhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AWHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4Ad1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AZXNxAH4AdnQABUFycmF5cQB+AHx1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AdnQABlN0cmluZ3NxAH4AenNxAH4AfXVxAH4AgAAAAANzcQB+AIJ0AARqYXZhc3EAfgCCdAAEbGFuZ3EAfgCHc3EAfgBdAHBzcQB+AGJ1cQB+AEAAAAAAc3EAfgBdAHBzcQB+AGJ1cQB+AJsAAAACc3EAfgB2dAAGT2JqZWN0cQB+AJ9zcQB+AHZ0AANBbnlxAH4AfHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACmNvbS5zeW55Y3NzcQB+ALJ0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVkhoawEdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAMS9ob21lL3N5bnljcy9zY2FsYS9wcm9qL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABS0FFK4OsPdD0OzVnE3YN7ySNPgCw==
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBlssSKAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cCSjN8R0AAZub3RpZnlzcQB+AAxCOBtcdAAEd2FpdHNxAH4ADNdq9wJ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMm8gvkHQABmVxdWFsc3NxAH4ADHwqh/R0AAxhc0luc3RhbmNlT2ZzcQB+AAx1D/7HdAAMc3luY2hyb25pemVkc3EAfgAMHJFIuXQADSRpc0luc3RhbmNlT2ZzcQB+AAwquzE9dAAIU3BhcmtYbWxzcQB+AAyWhrwodAAEbWFpbnNxAH4ADNm2IuF0AAlub3RpZnlBbGxzcQB+AAyvc3GLdAAMaXNJbnN0YW5jZU9mc3EAfgAMb4BHO3QADmdldExpc3RPZkZpbGVzc3EAfgAMsCLsWXQAAj09c3EAfgAMq7LDFHQABWNsb25lc3EAfgAMMIu0IXQACHRvU3RyaW5nc3EAfgAM4mlSIHQAAiE9c3EAfgAMDWorj3QACGdldENsYXNzc3EAfgAM/MjU1XQAAm5lc3EAfgAMsIixBHQAAmVxc3EAfgAM5R22s3QAAiMjc3EAfgAMjCLGSXQACGZpbmFsaXplc3EAfgAMW/NVG3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAE2NvbS5zeW55Y3MuU3BhcmtYbWx1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBceHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBbAHBzcQB+AGBzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQ0wACWluaGVyaXRlZHEAfgBDTAAHcGFyZW50c3EAfgBDeHEAfgBkc3EAfgBbAHBzcQB+AGB1cQB+AD4AAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AERxAH4ATXVxAH4ATgAAAABzcQB+AFAAcQB+AB91cQB+AFMAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AY3QABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGNzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIF1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBueHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBWdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB1WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBjc3EAfgB0dAAFQXJyYXlxAH4AenVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgB0dAAGU3RyaW5nc3EAfgB4c3EAfgB7dXEAfgB+AAAAA3NxAH4AgHQABGphdmFzcQB+AIB0AARsYW5ncQB+AIVzcQB+AFsAcHNxAH4AYHVxAH4APgAAAABzcQB+AFsAcHNxAH4AYHVxAH4AmQAAAAJzcQB+AHR0AAZPYmplY3RxAH4AnXNxAH4AdHQAA0FueXEAfgB6dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAKY29tLnN5bnljc3NxAH4AsHQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWSGhrAR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAAxL2hvbWUvc3lueWNzL3NjYWxhL3Byb2ovdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFH6Is6E/K76cosLz7fb/PdrWqwVG
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB0yFu7AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cHf31v90AAZub3RpZnlzcQB+AAz5H/69dAAEd2FpdHNxAH4ADIl/bwZ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMEAxPb3QABmVxdWFsc3NxAH4ADI6/Hi50AAxhc0luc3RhbmNlT2ZzcQB+AAyug3W9dAAMc3luY2hyb25pemVkc3EAfgAMQDcfLnQADSRpc0luc3RhbmNlT2ZzcQB+AAwSH2GEdAAEbWFpbnNxAH4ADJYO4ZV0AAlub3RpZnlBbGxzcQB+AAwYXRS6dAAMaXNJbnN0YW5jZU9mc3EAfgAMQcsjIHQAAj09c3EAfgAMrIyMMnQABWNsb25lc3EAfgAMKkpH9nQACHRvU3RyaW5nc3EAfgAMNfvbInQAB1RERl9JREZzcQB+AAxxWf5gdAACIT1zcQB+AAyO9UaudAAIZ2V0Q2xhc3NzcQB+AAz1mxwBdAACbmVzcQB+AAzYSutVdAACZXFzcQB+AAwazd1TdAACIyNzcQB+AAyXF4BhdAAIZmluYWxpemVzcQB+AAy/eX2gdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAASY29tLnN5bnljcy5UREZfSURGdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AWnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWQBwc3EAfgBec3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AYnNxAH4AWQBwc3EAfgBedXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAddXEAfgBRAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGF0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBhc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB/dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AbHhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AVHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4Ac1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AYXNxAH4AcnQABUFycmF5cQB+AHh1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AcnQABlN0cmluZ3NxAH4AdnNxAH4AeXVxAH4AfAAAAANzcQB+AH50AARqYXZhc3EAfgB+dAAEbGFuZ3EAfgCDc3EAfgBZAHBzcQB+AF51cQB+ADwAAAAAc3EAfgBZAHBzcQB+AF51cQB+AJcAAAACc3EAfgBydAAGT2JqZWN0cQB+AJtzcQB+AHJ0AANBbnlxAH4AeHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACmNvbS5zeW55Y3NzcQB+AK50AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVkhoawEdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAMS9ob21lL3N5bnljcy9zY2FsYS9wcm9qL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRxJi9rHIPSFAsVM+UB7+3pFpF23w==
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDsZYttAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cPnW1z10AAZub3RpZnlzcQB+AAweTcbFdAAEd2FpdHNxAH4ADLEvs2R0AA0kYXNJbnN0YW5jZU9mc3EAfgAMa7JNXnQAB1Rlc3RDc3ZzcQB+AAwhFXYvdAAGZXF1YWxzc3EAfgAMxHMINHQADGFzSW5zdGFuY2VPZnNxAH4ADM2R5Y10AAxzeW5jaHJvbml6ZWRzcQB+AAy0N9f5dAANJGlzSW5zdGFuY2VPZnNxAH4ADAf6mg10AARtYWluc3EAfgAMFlngQXQACW5vdGlmeUFsbHNxAH4ADNvyHUx0AAxpc0luc3RhbmNlT2ZzcQB+AAyj2eqydAACPT1zcQB+AAyI3STXdAAFY2xvbmVzcQB+AAwgn8C7dAAIdG9TdHJpbmdzcQB+AAy9xj3AdAACIT1zcQB+AAxGMF9ndAAIZ2V0Q2xhc3NzcQB+AAxkqVDEdAACbmVzcQB+AAxCsT/zdAACZXFzcQB+AAwgfyLYdAACIyNzcQB+AAwOV8qpdAAIZmluYWxpemVzcQB+AAyws3OqdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAASY29tLnN5bnljcy5UZXN0Q3N2dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AWnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWQBwc3EAfgBec3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AYnNxAH4AWQBwc3EAfgBedXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAfdXEAfgBRAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGF0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBhc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB/dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AbHhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AVHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4Ac1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AYXNxAH4AcnQABUFycmF5cQB+AHh1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AcnQABlN0cmluZ3NxAH4AdnNxAH4AeXVxAH4AfAAAAANzcQB+AH50AARqYXZhc3EAfgB+dAAEbGFuZ3EAfgCDc3EAfgBZAHBzcQB+AF51cQB+ADwAAAAAc3EAfgBZAHBzcQB+AF51cQB+AJcAAAACc3EAfgBydAAGT2JqZWN0cQB+AJtzcQB+AHJ0AANBbnlxAH4AeHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACmNvbS5zeW55Y3NzcQB+AK50AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVkhoawEdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAMS9ob21lL3N5bnljcy9zY2FsYS9wcm9qL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTgVCmUedOgtMR/1/iyXLl7yWpHgQ==
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHD99PpAAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cED6x3x0AAZub3RpZnlzcQB+AAxEXlNudAAEd2FpdHNxAH4ADDgcdCV0AA0kYXNJbnN0YW5jZU9mc3EAfgAMCY1FsXQABmVxdWFsc3NxAH4ADM9qvQN0AAxhc0luc3RhbmNlT2ZzcQB+AAymMYPhdAAMc3luY2hyb25pemVkc3EAfgAMjWE1sHQADSRpc0luc3RhbmNlT2ZzcQB+AAwoMAycdAAEbWFpbnNxAH4ADKWt2I10AAlub3RpZnlBbGxzcQB+AAz8GO4tdAAMaXNJbnN0YW5jZU9mc3EAfgAMqWgnBHQAAj09c3EAfgAMeGGehXQABWNsb25lc3EAfgAMqux6kHQACHRvU3RyaW5nc3EAfgAMnX9hwnQAAiE9c3EAfgAMApIW9nQACGdldENsYXNzc3EAfgAM3Gy17nQAB1Rlc3RNZW1zcQB+AAx8ZqkedAACbmVzcQB+AAzsOauYdAACZXFzcQB+AAw2kYZldAACIyNzcQB+AAyeL9MidAAIZmluYWxpemVzcQB+AAxj2rcsdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAASY29tLnN5bnljcy5UZXN0TWVtdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBZAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AGBzcQB+AFkBdXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAddXEAfgBRAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF90AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBfc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB7dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AaHhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AVHQABVBsYWludAADYXJyc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBvWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBfc3EAfgBudAAFQXJyYXlxAH4AdHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBudAAGU3RyaW5nc3EAfgByc3EAfgB1dXEAfgB4AAAAA3NxAH4AenQABGphdmFzcQB+AHp0AARsYW5ncQB+AH9wc3EAfgBZAXVxAH4APAAAAABwc3EAfgBZAXVxAH4AkwAAAAJzcQB+AG50AAZPYmplY3RxAH4Al3NxAH4AbnQAA0FueXEAfgB0cHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AApjb20uc3lueWNzc3EAfgCodAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFZIa5qyHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADEvaG9tZS9zeW55Y3Mvc2NhbGEvcHJvai90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUHrvAHve7GWYsxwjpdXSyVVfy0f0=
+/home/synycs/sparkmemcheck/src/main/java/com/synycs/sax/UserHandler.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC4IVHqAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWSJJX0J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+ABp4cHQANC9ob21lL3N5bnljcy9zcGFya21lbWNoZWNrL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTOCwovd6r4WvjvE3x+r25c9mBoag==
+/home/synycs/sparkmemcheck/src/main/java/com/synycs/sax/sax1/SaxParserDemo.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC4IVHqAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWSJJX0J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+ABp4cHQANC9ob21lL3N5bnljcy9zcGFya21lbWNoZWNrL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSx6KxWLJt/2lD9ugb0Kswv5abppQ==
+/home/synycs/sparkmemcheck/src/main/java/com/synycs/sax/sax1/StaxTest.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC4IVHqAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWSJJX0J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+ABp4cHQANC9ob21lL3N5bnljcy9zcGFya21lbWNoZWNrL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQ/VzPR4zyZQ04cQnjOWETfisJMEQ==
+/home/synycs/sparkmemcheck/src/main/java/com/synycs/sax/sax1/UserHandler.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC4IVHqAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWSJJX0J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+ABp4cHQANC9ob21lL3N5bnljcy9zcGFya21lbWNoZWNrL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABS7aqqq4M0IRRAcLJmpF5Q9bjCCDA==
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB8L6D6AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAF3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cDV9bQF0AAZub3RpZnlzcQB+AAzdOtYwdAAEd2FpdHNxAH4ADOar0St0AA0kYXNJbnN0YW5jZU9mc3EAfgAMDGFSHXQABmVxdWFsc3NxAH4ADGer8lh0AAxhc0luc3RhbmNlT2ZzcQB+AAzJ3P6adAARb3BlbkNzdlBhcnNlckRhdGFzcQB+AAyank2MdAAMc3luY2hyb25pemVkc3EAfgAMgEXME3QADSRpc0luc3RhbmNlT2ZzcQB+AAwNlc7pdAAEbWFpbnNxAH4ADNTAyRx0AAlub3RpZnlBbGxzcQB+AAyBd229dAALT3BlbkNzdlRlc3RzcQB+AAyRYm5BdAAMaXNJbnN0YW5jZU9mc3EAfgAMrac9mXQAAj09c3EAfgAMOKUCfnQABWNsb25lc3EAfgAMGaysNHQACHRvU3RyaW5nc3EAfgAMlRcb03QAAiE9c3EAfgAM1LDEs3QACGdldENsYXNzc3EAfgAMsxtG43QAAm5lc3EAfgAMTap1ZHQABGNhbGxzcQB+AAxTtaaFdAACZXFzcQB+AAyVf0MHdAACIyNzcQB+AAyI2g7bdAAIZmluYWxpemVzcQB+AAyDruQKdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBFeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAWY29tLnN5bnljcy5PcGVuQ3N2VGVzdHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AF54cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF0AcHNxAH4AYnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBFTAAJaW5oZXJpdGVkcQB+AEVMAAdwYXJlbnRzcQB+AEV4cQB+AGZzcQB+AF0AcHNxAH4AYnVxAH4AQAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ARnEAfgBPdXEAfgBQAAAAAHNxAH4AUgBxAH4AH3VxAH4AVQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBldAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ag3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHB4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFh0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AHdbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGVzcQB+AHZ0AAVBcnJheXEAfgB8dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AHZ0AAZTdHJpbmdzcQB+AHpzcQB+AH11cQB+AIAAAAADc3EAfgCCdAAEamF2YXNxAH4AgnQABGxhbmdxAH4Ah3NxAH4AXQBwc3EAfgBidXEAfgBAAAAAAHNxAH4AXQBwc3EAfgBidXEAfgCbAAAAAnNxAH4AdnQABk9iamVjdHEAfgCfc3EAfgB2dAADQW55cQB+AHx1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AApjb20uc3lueWNzc3EAfgCydAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFZIklfQnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADQvaG9tZS9zeW55Y3Mvc3BhcmttZW1jaGVjay90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUVtQ0DNIfr+NpJiZafdVpm86RY3k=
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAKzsRbAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cB3o+PN0AAZub3RpZnlzcQB+AAyMQ1E3dAAEd2FpdHNxAH4ADJ6kwu90AA0kYXNJbnN0YW5jZU9mc3EAfgAMYqPAHnQABmVxdWFsc3NxAH4ADGc75Md0AAxhc0luc3RhbmNlT2ZzcQB+AAwKpkl6dAAMc3luY2hyb25pemVkc3EAfgAMnfgswHQADSRpc0luc3RhbmNlT2ZzcQB+AAwHLJx+dAAEbWFpbnNxAH4ADNLvVWx0AAlub3RpZnlBbGxzcQB+AAwlSy09dAAMaXNJbnN0YW5jZU9mc3EAfgAMN3VyY3QAAj09c3EAfgAMYWTKInQABWNsb25lc3EAfgAML6kO+nQACHRvU3RyaW5nc3EAfgAMh2F0v3QADFBhcnF1ZXRDaGVja3NxAH4ADD3jbGh0AAIhPXNxAH4ADPlYyw90AAhnZXRDbGFzc3NxAH4ADCJK8S10AAJuZXNxAH4ADEiH1AB0AAJlcXNxAH4ADKoDBE10AAIjI3NxAH4ADKALCrt0AAhmaW5hbGl6ZXNxAH4ADIYU6V90AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABdjb20uc3lueWNzLlBhcnF1ZXRDaGVja3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AFp4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFkAcHNxAH4AXnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AGJzcQB+AFkAcHNxAH4AXnVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBhdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Af3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGx4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AHNbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGFzcQB+AHJ0AAVBcnJheXEAfgB4dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AHJ0AAZTdHJpbmdzcQB+AHZzcQB+AHl1cQB+AHwAAAADc3EAfgB+dAAEamF2YXNxAH4AfnQABGxhbmdxAH4Ag3NxAH4AWQBwc3EAfgBedXEAfgA8AAAAAHNxAH4AWQBwc3EAfgBedXEAfgCXAAAAAnNxAH4AcnQABk9iamVjdHEAfgCbc3EAfgBydAADQW55cQB+AHh1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AApjb20uc3lueWNzc3EAfgCudAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFZIklfQnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADQvaG9tZS9zeW55Y3Mvc3BhcmttZW1jaGVjay90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUp12dIDibX5Kj5YHwoNx59IsaeSw=
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAqeDgWAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAF3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cF9l0Xx0AAZub3RpZnlzcQB+AAxUnLHXdAAEd2FpdHNxAH4ADFQQQat0AA0kYXNJbnN0YW5jZU9mc3EAfgAMCuIhwnQABmVxdWFsc3NxAH4ADMcWpMp0AAxhc0luc3RhbmNlT2ZzcQB+AAx4DwZ3dAAMc3luY2hyb25pemVkc3EAfgAMPP3BgHQAEVNwYXJrTWFuaXB1bGF0aW9uc3EAfgAMiYaGzHQADSRpc0luc3RhbmNlT2ZzcQB+AAw+diaTdAAEbWFpbnNxAH4ADP2pY5t0AAlub3RpZnlBbGxzcQB+AAythcV6dAAMaXNJbnN0YW5jZU9mc3EAfgAMYsZKwXQADmdldExpc3RPZkZpbGVzc3EAfgAMWVrtb3QAAj09c3EAfgAMAlFU+XQABWNsb25lc3EAfgAMJAklPXQACWV0bE9uRmlsZXNxAH4ADE3Ulu90AAh0b1N0cmluZ3NxAH4ADAeYE950AAIhPXNxAH4ADDNVABt0AAhnZXRDbGFzc3NxAH4ADMXh+p10AAJuZXNxAH4ADNy5Eox0AAJlcXNxAH4ADL0FKg50AAIjI3NxAH4ADM1uZCx0AAhmaW5hbGl6ZXNxAH4ADIYVe610AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABxjb20uc3lueWNzLlNwYXJrTWFuaXB1bGF0aW9udXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AXnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AXQBwc3EAfgBic3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEVMAAlpbmhlcml0ZWRxAH4ARUwAB3BhcmVudHNxAH4ARXhxAH4AZnNxAH4AXQBwc3EAfgBidXEAfgBAAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBGcQB+AE91cQB+AFAAAAAAc3EAfgBSAHEAfgAfdXEAfgBVAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGV0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBlc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCDdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AcHhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AWHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4Ad1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AZXNxAH4AdnQABUFycmF5cQB+AHx1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AdnQABlN0cmluZ3NxAH4AenNxAH4AfXVxAH4AgAAAAANzcQB+AIJ0AARqYXZhc3EAfgCCdAAEbGFuZ3EAfgCHc3EAfgBdAHBzcQB+AGJ1cQB+AEAAAAAAc3EAfgBdAHBzcQB+AGJ1cQB+AJsAAAACc3EAfgB2dAAGT2JqZWN0cQB+AJ9zcQB+AHZ0AANBbnlxAH4AfHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACmNvbS5zeW55Y3NzcQB+ALJ0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVkiSV9CdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQANC9ob21lL3N5bnljcy9zcGFya21lbWNoZWNrL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABS0FFK4OsPdD0OzVnE3YN7ySNPgCw==
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBlssSKAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cCSjN8R0AAZub3RpZnlzcQB+AAxCOBtcdAAEd2FpdHNxAH4ADNdq9wJ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMm8gvkHQABmVxdWFsc3NxAH4ADHwqh/R0AAxhc0luc3RhbmNlT2ZzcQB+AAx1D/7HdAAMc3luY2hyb25pemVkc3EAfgAMHJFIuXQADSRpc0luc3RhbmNlT2ZzcQB+AAwquzE9dAAIU3BhcmtYbWxzcQB+AAyWhrwodAAEbWFpbnNxAH4ADNm2IuF0AAlub3RpZnlBbGxzcQB+AAyvc3GLdAAMaXNJbnN0YW5jZU9mc3EAfgAMb4BHO3QADmdldExpc3RPZkZpbGVzc3EAfgAMsCLsWXQAAj09c3EAfgAMq7LDFHQABWNsb25lc3EAfgAMMIu0IXQACHRvU3RyaW5nc3EAfgAM4mlSIHQAAiE9c3EAfgAMDWorj3QACGdldENsYXNzc3EAfgAM/MjU1XQAAm5lc3EAfgAMsIixBHQAAmVxc3EAfgAM5R22s3QAAiMjc3EAfgAMjCLGSXQACGZpbmFsaXplc3EAfgAMW/NVG3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAE2NvbS5zeW55Y3MuU3BhcmtYbWx1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBceHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBbAHBzcQB+AGBzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQ0wACWluaGVyaXRlZHEAfgBDTAAHcGFyZW50c3EAfgBDeHEAfgBkc3EAfgBbAHBzcQB+AGB1cQB+AD4AAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AERxAH4ATXVxAH4ATgAAAABzcQB+AFAAcQB+AB91cQB+AFMAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AY3QABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGNzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIF1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBueHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBWdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB1WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBjc3EAfgB0dAAFQXJyYXlxAH4AenVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgB0dAAGU3RyaW5nc3EAfgB4c3EAfgB7dXEAfgB+AAAAA3NxAH4AgHQABGphdmFzcQB+AIB0AARsYW5ncQB+AIVzcQB+AFsAcHNxAH4AYHVxAH4APgAAAABzcQB+AFsAcHNxAH4AYHVxAH4AmQAAAAJzcQB+AHR0AAZPYmplY3RxAH4AnXNxAH4AdHQAA0FueXEAfgB6dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAKY29tLnN5bnljc3NxAH4AsHQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWSJJX0J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA0L2hvbWUvc3lueWNzL3NwYXJrbWVtY2hlY2svdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFH6Is6E/K76cosLz7fb/PdrWqwVG
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB0yFu7AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cHf31v90AAZub3RpZnlzcQB+AAz5H/69dAAEd2FpdHNxAH4ADIl/bwZ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMEAxPb3QABmVxdWFsc3NxAH4ADI6/Hi50AAxhc0luc3RhbmNlT2ZzcQB+AAyug3W9dAAMc3luY2hyb25pemVkc3EAfgAMQDcfLnQADSRpc0luc3RhbmNlT2ZzcQB+AAwSH2GEdAAEbWFpbnNxAH4ADJYO4ZV0AAlub3RpZnlBbGxzcQB+AAwYXRS6dAAMaXNJbnN0YW5jZU9mc3EAfgAMQcsjIHQAAj09c3EAfgAMrIyMMnQABWNsb25lc3EAfgAMKkpH9nQACHRvU3RyaW5nc3EAfgAMNfvbInQAB1RERl9JREZzcQB+AAxxWf5gdAACIT1zcQB+AAyO9UaudAAIZ2V0Q2xhc3NzcQB+AAz1mxwBdAACbmVzcQB+AAzYSutVdAACZXFzcQB+AAwazd1TdAACIyNzcQB+AAyXF4BhdAAIZmluYWxpemVzcQB+AAy/eX2gdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAASY29tLnN5bnljcy5UREZfSURGdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AWnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWQBwc3EAfgBec3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AYnNxAH4AWQBwc3EAfgBedXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAddXEAfgBRAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGF0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBhc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB/dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AbHhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AVHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4Ac1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AYXNxAH4AcnQABUFycmF5cQB+AHh1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AcnQABlN0cmluZ3NxAH4AdnNxAH4AeXVxAH4AfAAAAANzcQB+AH50AARqYXZhc3EAfgB+dAAEbGFuZ3EAfgCDc3EAfgBZAHBzcQB+AF51cQB+ADwAAAAAc3EAfgBZAHBzcQB+AF51cQB+AJcAAAACc3EAfgBydAAGT2JqZWN0cQB+AJtzcQB+AHJ0AANBbnlxAH4AeHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACmNvbS5zeW55Y3NzcQB+AK50AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVkiSV9CdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQANC9ob21lL3N5bnljcy9zcGFya21lbWNoZWNrL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRxJi9rHIPSFAsVM+UB7+3pFpF23w==
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDsZYttAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cPnW1z10AAZub3RpZnlzcQB+AAweTcbFdAAEd2FpdHNxAH4ADLEvs2R0AA0kYXNJbnN0YW5jZU9mc3EAfgAMa7JNXnQAB1Rlc3RDc3ZzcQB+AAwhFXYvdAAGZXF1YWxzc3EAfgAMxHMINHQADGFzSW5zdGFuY2VPZnNxAH4ADM2R5Y10AAxzeW5jaHJvbml6ZWRzcQB+AAy0N9f5dAANJGlzSW5zdGFuY2VPZnNxAH4ADAf6mg10AARtYWluc3EAfgAMFlngQXQACW5vdGlmeUFsbHNxAH4ADNvyHUx0AAxpc0luc3RhbmNlT2ZzcQB+AAyj2eqydAACPT1zcQB+AAyI3STXdAAFY2xvbmVzcQB+AAwgn8C7dAAIdG9TdHJpbmdzcQB+AAy9xj3AdAACIT1zcQB+AAxGMF9ndAAIZ2V0Q2xhc3NzcQB+AAxkqVDEdAACbmVzcQB+AAxCsT/zdAACZXFzcQB+AAwgfyLYdAACIyNzcQB+AAwOV8qpdAAIZmluYWxpemVzcQB+AAyws3OqdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAASY29tLnN5bnljcy5UZXN0Q3N2dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AWnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWQBwc3EAfgBec3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AYnNxAH4AWQBwc3EAfgBedXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAfdXEAfgBRAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGF0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBhc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB/dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AbHhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AVHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4Ac1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AYXNxAH4AcnQABUFycmF5cQB+AHh1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AcnQABlN0cmluZ3NxAH4AdnNxAH4AeXVxAH4AfAAAAANzcQB+AH50AARqYXZhc3EAfgB+dAAEbGFuZ3EAfgCDc3EAfgBZAHBzcQB+AF51cQB+ADwAAAAAc3EAfgBZAHBzcQB+AF51cQB+AJcAAAACc3EAfgBydAAGT2JqZWN0cQB+AJtzcQB+AHJ0AANBbnlxAH4AeHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACmNvbS5zeW55Y3NzcQB+AK50AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVkiSV9CdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQANC9ob21lL3N5bnljcy9zcGFya21lbWNoZWNrL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTgVCmUedOgtMR/1/iyXLl7yWpHgQ==
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHD99PpAAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cED6x3x0AAZub3RpZnlzcQB+AAxEXlNudAAEd2FpdHNxAH4ADDgcdCV0AA0kYXNJbnN0YW5jZU9mc3EAfgAMCY1FsXQABmVxdWFsc3NxAH4ADM9qvQN0AAxhc0luc3RhbmNlT2ZzcQB+AAymMYPhdAAMc3luY2hyb25pemVkc3EAfgAMjWE1sHQADSRpc0luc3RhbmNlT2ZzcQB+AAwoMAycdAAEbWFpbnNxAH4ADKWt2I10AAlub3RpZnlBbGxzcQB+AAz8GO4tdAAMaXNJbnN0YW5jZU9mc3EAfgAMqWgnBHQAAj09c3EAfgAMeGGehXQABWNsb25lc3EAfgAMqux6kHQACHRvU3RyaW5nc3EAfgAMnX9hwnQAAiE9c3EAfgAMApIW9nQACGdldENsYXNzc3EAfgAM3Gy17nQAB1Rlc3RNZW1zcQB+AAx8ZqkedAACbmVzcQB+AAzsOauYdAACZXFzcQB+AAw2kYZldAACIyNzcQB+AAyeL9MidAAIZmluYWxpemVzcQB+AAxj2rcsdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAASY29tLnN5bnljcy5UZXN0TWVtdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBZAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AGBzcQB+AFkBdXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAddXEAfgBRAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF90AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBfc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB7dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AaHhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AVHQABVBsYWludAADYXJyc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBvWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBfc3EAfgBudAAFQXJyYXlxAH4AdHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBudAAGU3RyaW5nc3EAfgByc3EAfgB1dXEAfgB4AAAAA3NxAH4AenQABGphdmFzcQB+AHp0AARsYW5ncQB+AH9wc3EAfgBZAXVxAH4APAAAAABwc3EAfgBZAXVxAH4AkwAAAAJzcQB+AG50AAZPYmplY3RxAH4Al3NxAH4AbnQAA0FueXEAfgB0cHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AApjb20uc3lueWNzc3EAfgCodAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFZIoGpYnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADQvaG9tZS9zeW55Y3Mvc3BhcmttZW1jaGVjay90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU7rfUYscUaCzhkU1xBiFzCzEUcMI=
 external apis:
 0 items
 source infos:
 11 items
-/home/synycs/scala/proj/src/main/java/com/synycs/sax/UserHandler.java -> 
+/home/synycs/sparkmemcheck/src/main/java/com/synycs/sax/UserHandler.java -> 
 AAAAAAAAAAA=
-/home/synycs/scala/proj/src/main/java/com/synycs/sax/sax1/SaxParserDemo.java -> 
+/home/synycs/sparkmemcheck/src/main/java/com/synycs/sax/sax1/SaxParserDemo.java -> 
 AAAAAAAAAAA=
-/home/synycs/scala/proj/src/main/java/com/synycs/sax/sax1/StaxTest.java -> 
+/home/synycs/sparkmemcheck/src/main/java/com/synycs/sax/sax1/StaxTest.java -> 
 AAAAAAAAAAA=
-/home/synycs/scala/proj/src/main/java/com/synycs/sax/sax1/UserHandler.java -> 
+/home/synycs/sparkmemcheck/src/main/java/com/synycs/sax/sax1/UserHandler.java -> 
 AAAAAAAAAAA=
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> 
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/OpenCsvTest.scala -> 
 AAAAAAAAAAA=
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> 
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/ParquetCheck.scala -> 
 AAAAAAAAAAA=
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> 
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkManipulation.scala -> 
 AAAAAAAAAAA=
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/SparkXml.scala -> 
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/SparkXml.scala -> 
 AAAAAAAAAAA=
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> 
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TDF_IDF.scala -> 
 AAAAAAAAAAA=
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestCsv.scala -> 
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestCsv.scala -> 
 AAAAAAAAAAA=
-/home/synycs/scala/proj/src/main/scala-2.11/com/synycs/TestMem.scala -> 
+/home/synycs/sparkmemcheck/src/main/scala-2.11/com/synycs/TestMem.scala -> 
 AAAAAAAAAAA=
 compilations:
-2 items
+5 items
 0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWSGhrAR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMS9ob21lL3N5bnljcy9zY2FsYS9wcm9qL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
 1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWSGuash1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMS9ob21lL3N5bnljcy9zY2FsYS9wcm9qL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWSJJX0J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANC9ob21lL3N5bnljcy9zcGFya21lbWNoZWNrL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWSJ+Ol91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANC9ob21lL3N5bnljcy9zcGFya21lbWNoZWNrL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWSKBqWJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANC9ob21lL3N5bnljcy9zcGFya21lbWNoZWNrL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv

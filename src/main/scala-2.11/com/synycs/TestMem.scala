@@ -11,15 +11,15 @@ object TestMem {
   def main(arr:Array[String]):Unit={
 
     val conf=new SparkConf().setAppName("MemCheck").
-      setMaster("spark://synycs-Aspire-E5-532:7077").
-      setSparkHome("/home/synycs/Downloads/spark-2.0.2-bin-hadoop2.6").
-      setJars(Seq("/home/synycs/scala/proj/target/scala-2.11/proj_2.11-1.0.jar"))
+      setMaster("spark://instance-3:7077").
+      setSparkHome("/home/synycs/spark-2.0.2-bin-hadoop2.6")
+      //setJars(Seq("/home/synycs/scala/proj/target/scala-2.11/proj_2.11-1.0.jar"))
 
     val spark = SparkSession
       .builder.config(conf)
       .getOrCreate()
 
-    val rows=spark.sparkContext.textFile("/home/synycs/Music/rows.json")
+    val rows=spark.sparkContext.textFile("/home/synycs/rows.json")
 
     println(rows.count())
 
