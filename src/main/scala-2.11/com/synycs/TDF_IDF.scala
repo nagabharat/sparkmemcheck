@@ -32,9 +32,15 @@ object TDF_IDF {
     val hashingTF = new HashingTF()
       .setInputCol("words").setOutputCol("rawFeatures").setNumFeatures(20)
 
+
+
     val featurizedData = hashingTF.transform(wordsData)
 
+    featurizedData.show()
 
+    featurizedData.foreach{
+      x=>println(x)
+    }
 
     println("data ")
     featurizedData.foreach{

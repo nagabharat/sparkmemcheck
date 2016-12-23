@@ -26,16 +26,19 @@ object OpenCsvTest{
      // parses all rows in one go.
      val allRows = parser.parseAll(new FileInputStream("/home/synycs/Downloads/Consumer_Complaints.csv"))
 
-//     allRows.toArray().foreach{
-//       x=> val y=x.asInstanceOf[Array[String]]
-//         y.foreach{
-//           x=>print("["+x+"]")
-//         }
-//         println()
-//         println("end")
-//
-//     }
-     println(allRows.size())
+     var col=0;
+
+     allRows.toArray().foreach{
+       x=> val y=x.asInstanceOf[Array[String]]
+         y.foreach{
+           x=>print("["+x+"]")
+         }
+         col=col+1
+         println()
+         println("end")
+
+     }
+     println(col)
 
    }
 
