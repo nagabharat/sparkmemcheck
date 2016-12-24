@@ -1,6 +1,6 @@
 package com.synycs
 
-import org.apache.spark.ml.feature.{IDF, HashingTF, Tokenizer}
+import org.apache.spark.ml.feature._
 import org.apache.spark.sql.SparkSession
 
 /**
@@ -30,7 +30,14 @@ object TDF_IDF {
     }
 
     val hashingTF = new HashingTF()
-      .setInputCol("words").setOutputCol("rawFeatures").setNumFeatures(20)
+      .setInputCol("words").setOutputCol("rawFeatures").setNumFeatures(64)
+    val cvModel: CountVectorizerModel = new CountVectorizer()
+      .setInputCol("words")
+      .setOutputCol("features")
+      .fit(wordsData)
+
+    val cvval=cvModel.transform(wordsData)
+    cvval.foreach(println(_))
 
 
 
@@ -38,9 +45,6 @@ object TDF_IDF {
 
     featurizedData.show()
 
-    featurizedData.foreach{
-      x=>println(x)
-    }
 
     println("data ")
     featurizedData.foreach{
@@ -52,7 +56,7 @@ object TDF_IDF {
     val idfModel = idf.fit(featurizedData)
 
     val rescaledData = idfModel.transform(featurizedData)
-    rescaledData.select("label", "features").show()
+    rescaledData.foreach(println(_))
     // $example off$
 
     spark.stop()
