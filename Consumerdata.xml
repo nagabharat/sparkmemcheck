@@ -1,0 +1,59 @@
+<response><row>
+    <row _id="1" _uuid="24535427-A91D-4587-A36C-E951DAB9F534" _position="1" _address="http://data.consumerfinance.gov/resource/s6ew-h6mp/1"><date_received>2013-07-29T16:07:42</date_received>
+    <product>Consumer Loan</product><sub_product>Vehicle loan</sub_product><issue>Managing the loan or lease</issue>
+    <company>Wells Fargo &amp; Company</company><state>VA</state><zip_code>24540</zip_code>
+    <consumer_consent_provided>N/A</consumer_consent_provided><submitted_via>Phone</submitted_via>
+    <date_sent_to_company>2013-07-30T04:00:00</date_sent_to_company><company_response>Closed with explanation</company_response>
+    <timely>Yes</timely><consumer_disputed>No</consumer_disputed><complaint_id>468882</complaint_id></row>
+    <row _id="2" _uuid="CD704046-D5E6-4B1D-AEA9-AFF6D28B901E" _position="2" _address="http://data.consumerfinance.gov/resource/s6ew-h6mp/2">
+        <date_received>2013-07-29T16:13:15</date_received><product>Bank account or service</product>
+        <sub_product>Checking account</sub_product><issue>Using a debit or ATM card</issue><company>Wells Fargo &amp; Company</company>
+        <state>CA</state><zip_code>95992</zip_code><tags>Older American</tags><consumer_consent_provided>N/A</consumer_consent_provided>
+        <submitted_via>Web</submitted_via><date_sent_to_company>2013-07-31T04:00:00</date_sent_to_company>
+        <company_response>Closed with explanation</company_response><timely>Yes</timely><consumer_disputed>No</consumer_disputed>
+        <complaint_id>468889</complaint_id></row>
+    <row _id="3" _uuid="82367CA1-B156-4D66-A448-2ED61A971F8F" _position="3" _address="http://data.consumerfinance.gov/resource/s6ew-h6mp/3">
+        <date_received>2013-07-29T16:17:51</date_received><product>Bank account or service</product>
+        <sub_product>Checking account</sub_product><issue>Account opening, closing, or management</issue>
+        <company>Santander Bank US</company><state>NY</state><zip_code>10065</zip_code>
+        <consumer_consent_provided>N/A</consumer_consent_provided><submitted_via>Fax</submitted_via>
+        <date_sent_to_company>2013-07-31T04:00:00</date_sent_to_company><company_response>Closed</company_response>
+        <timely>Yes</timely><consumer_disputed>No</consumer_disputed><complaint_id>468879</complaint_id></row>
+    <row _id="4" _uuid="1E972303-B34C-4834-9A6A-FE34C692CDF7" _position="4" _address="http://data.consumerfinance.gov/resource/s6ew-h6mp/4"><date_received>2013-07-29T16:35:59</date_received>
+        <product>Bank account or service</product><sub_product>Checking account</sub_product>
+        <issue>Deposits and withdrawals</issue><company>Wells Fargo &amp; Company</company><state>GA</state>
+        <zip_code>30084</zip_code><consumer_consent_provided>N/A</consumer_consent_provided><submitted_via>Web</submitted_via>
+        <date_sent_to_company>2013-07-30T04:00:00</date_sent_to_company><company_response>Closed with explanation</company_response>
+        <timely>Yes</timely><consumer_disputed>No</consumer_disputed><complaint_id>468949</complaint_id></row>
+    <row _id="5" _uuid="08CA0A2D-37DD-4240-9354-72DB40F17748" _position="5" _address="http://data.consumerfinance.gov/resource/s6ew-h6mp/5">
+        <date_received>2013-07-29T16:40:05</date_received><product>Mortgage</product>
+        <sub_product>Conventional fixed mortgage</sub_product><issue>Loan servicing, payments, escrow account</issue>
+        <company>Franklin Credit Management</company><state>CT</state><zip_code>06106</zip_code>
+        <consumer_consent_provided>N/A</consumer_consent_provided><submitted_via>Web</submitted_via>
+        <date_sent_to_company>2013-07-30T04:00:00</date_sent_to_company>
+        <company_response>Closed with explanation</company_response><timely>Yes</timely>
+        <consumer_disputed>No</consumer_disputed><complaint_id>475823</complaint_id></row>
+    <row _id="6" _uuid="AA4267AA-AFE8-48DD-A38B-DBBD8187F857" _position="6" _address="http://data.consumerfinance.gov/resource/s6ew-h6mp/6">
+        <date_received>2013-07-29T16:49:36</date_received><product>Bank account or service</product>
+        <sub_product>Checking account</sub_product><issue>Deposits and withdrawals</issue><company>Bank of America</company>
+        <state>TX</state><zip_code>75025</zip_code><consumer_consent_provided>N/A</consumer_consent_provided>
+        <submitted_via>Web</submitted_via><date_sent_to_company>2013-07-30T04:00:00</date_sent_to_company>
+        <company_response>Closed with explanation</company_response><timely>Yes</timely>
+        <consumer_disputed>No</consumer_disputed><complaint_id>468981</complaint_id></row>
+    <row _id="7" _uuid="7B88E34C-F2F5-4C8F-8C0E-DC73EE3FBED4" _position="7" _address="http://data.consumerfinance.gov/resource/s6ew-h6mp/7">
+        <date_received>2013-07-29T16:58:25</date_received><product>Debt collection</product>
+        <sub_product>Other (i.e. phone, health club, etc.)</sub_product><issue>Cont'd attempts collect debt not owed</issue>
+        <sub_issue>Debt is not mine</sub_issue><company>NRA Group, LLC</company><state>VA</state><zip_code>20147</zip_code>
+        <consumer_consent_provided>N/A</consumer_consent_provided><submitted_via>Web</submitted_via>
+        <date_sent_to_company>2013-08-07T04:00:00</date_sent_to_company>
+        <company_response>Closed with non-monetary relief</company_response><timely>Yes</timely>
+        <consumer_disputed>No</consumer_disputed><complaint_id>467801</complaint_id>
+    </row><row _id="8" _uuid="8CE5EF3F-9EAA-4898-97D7-733523B377DC" _position="8" _address="http://data.consumerfinance.gov/resource/s6ew-h6mp/8">
+        <date_received>2013-07-29T17:00:25</date_received><product>Debt collection</product>
+        <sub_product>I do not know</sub_product><issue>Cont'd attempts collect debt not owed</issue>
+        <sub_issue>Debt was paid</sub_issue><company>SunTrust Banks, Inc.</company><state>FL</state>
+        <zip_code>32818</zip_code><consumer_consent_provided>N/A</consumer_consent_provided>
+        <submitted_via>Referral</submitted_via><date_sent_to_company>2013-08-01T04:00:00</date_sent_to_company>
+        <company_response>Closed with explanation</company_response><timely>Yes</timely>
+        <consumer_disputed>Yes</consumer_disputed><complaint_id>475728</complaint_id></row>
+    </row></response>
