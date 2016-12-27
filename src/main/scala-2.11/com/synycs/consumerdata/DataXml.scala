@@ -17,11 +17,11 @@ object DataXml {
       .appName("").master("local[2]")
       .getOrCreate()
 
-//    val rdf=spark.sparkContext.textFile("/home/synycs/scala/proj/Consumerdata.xml").
-//      map{x=>x.replaceAll("<row>","").
-//        replaceAll("</row>(\\s)*</response>","</response>")
-//      }
-//    rdf.saveAsTextFile("/home/synycs/scala/proj/Consumerdata-ref.xml")
+    val rdf=spark.sparkContext.textFile("/home/synycs/scala/proj/Consumerdata.xml").
+      map{x=>x.replaceAll("<row>","").
+        replaceAll("</row>(\\s)*</response>","</response>")
+      }
+    rdf.saveAsTextFile("/home/synycs/scala/proj/Consumerdata-ref.xml")
 
 
 

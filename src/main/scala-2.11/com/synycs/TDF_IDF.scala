@@ -15,8 +15,8 @@ object TDF_IDF {
       .getOrCreate()
     val sentenceData = spark.createDataFrame(Seq(
       (0.0, "Hi I heard about Spark"),
-      (0.0, "I wish Java could use case classes"),
-      (1.0, "Logistic regression models are neat")
+      (2.0, "I wish i could use scala and i am good at java"),
+      (1.0, "i Logistic regression models are neat")
     )).toDF("label", "sentence")
 
     val tokenizer = new Tokenizer().setInputCol("sentence").setOutputCol("words")
@@ -30,10 +30,10 @@ object TDF_IDF {
     }
 
     val hashingTF = new HashingTF()
-      .setInputCol("words").setOutputCol("rawFeatures").setNumFeatures(64)
+      .setInputCol("words").setOutputCol("rawFeatures").setNumFeatures(128)
     val cvModel: CountVectorizerModel = new CountVectorizer()
       .setInputCol("words")
-      .setOutputCol("features")
+      .setOutputCol("rawFeatures")
       .fit(wordsData)
 
     val cvval=cvModel.transform(wordsData)
@@ -57,6 +57,9 @@ object TDF_IDF {
 
     val rescaledData = idfModel.transform(featurizedData)
     rescaledData.foreach(println(_))
+    rescaledData.select("features").foreach{
+      x=>println(x)
+    }
     // $example off$
 
     spark.stop()
