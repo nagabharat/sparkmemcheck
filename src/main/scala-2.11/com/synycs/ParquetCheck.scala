@@ -13,64 +13,56 @@ object ParquetCheck {
 
   def main(args: Array[String]) {
     val spark=SparkSession.builder().appName("parquet").master("local").getOrCreate()
-//    val loaded:DataFrame=spark.read
-//      .format("parquet")
-//      //  .option("charset","UTF-8")
-//      .load("/home/synycs/Downloads/returs/com/content.parquet")
-//
-//    loaded.printSchema()
-//    loaded.createOrReplaceTempView("content")
-//
-//    val data=spark.sql("select BODY from content")
+    val loaded:DataFrame=spark.read
+      .format("parquet")
+      //  .option("charset","UTF-8")
+      .load("/home/synycs/Downloads/returs/com/content.parquet")
 
-    val sentenceData = spark.createDataFrame(Seq(
-      ("0", "Hi I heard about Spark"),
-      ("1", "I wish i could use scala and spark and i am good at java"),
-      ("2", "i, Logistic regression models are neat")
-    )).toDF("label", "sentence")
+    loaded.printSchema()
+    loaded.createOrReplaceTempView("content")
+
+    val data=spark.sql("select _NEWID,BODY from content")
+
+    data.show()
 
 
-//    val tokenizer = new RegexTokenizer("").setInputCol("sentence").setOutputCol("words")
-//
-//    val wordData=tokenizer.transform(sentenceData)
-//    wordData.show()
+    val count=data.count()
 
-   // idf(sentenceData.select("sentence"),"hi")
+    val cachedRdd=data.rdd.filter(x=>x!=null&&x(0)!=null&&x(1)!=null).cache()
+    val rdd=tokensForEach(cachedRdd)
+    val idfRdd= rdd.map{
+      x=>val y=(count+1)/(x._2+1)
+       val y1=math.log(y)
+        (x._1,y1)
+    }
+    idfRdd.foreach(println(_))
 
-  // println(idf(sentenceData.select("sentence"),"i"))
+    val totalWord=tokensForAll(cachedRdd)
 
-    tokensForEach(sentenceData.rdd).foreach(println(_))
+    val ic=idfRdd.join(totalWord).values.map{
+      case (idf,totcount)=>{
+        val countlog=math.log(totcount)
+        //(idf,co
+      }
+    }
+
+
 
     spark.stop()
 
   }
 
-  def idf(dataFrame: DataFrame,term:String): Double={
-    var count=0
-    dataFrame.collect().foreach{
-      x=>val words=x(0).toString.split("(\\s|[.]|,)")
-        var already=false
-        for (word <-words){
-          if (term.equalsIgnoreCase(word) && !already){
-            already=true
-            count+=1
-          }
-        }
-    }
 
-    math.log((dataFrame.count() + 1) / (count + 1))
-
-  }
 
   /**
-    *tokens for each documents
+    *tokens counted once for each documents
     *
     * @param rdd
     * @return
     */
-  def tokensForEach(rdd:RDD[Row]): RDD[(String,Int)] ={
+  def tokensForEach(rdd:RDD[Row]): RDD[(String,Double)] ={
 
-    val pair=rdd.flatMap{x=>val li=x(1).toString.toLowerCase.split("(\\s|[.]|,)")
+    val pair=rdd.flatMap{x=> val li=x(1).toString.toLowerCase.split("(\\s|[.]|,)")
 
       val map=new mutable.HashSet[String]()
       for (y <- li){
@@ -78,10 +70,10 @@ object ParquetCheck {
           map.add(y)
         }
       }
-      for (y <-map) yield (y,1)
+      for (y <-map) yield (y,1.0)
 
     }.reduceByKey(_+_)
-    return pair
+     pair
   }
 
   /**
@@ -90,11 +82,12 @@ object ParquetCheck {
     * @param rdd
     * @return
     */
-  def tokensForAll(rdd:RDD[Row]): RDD[((String),Int)] ={
+  def tokensForAll(rdd:RDD[Row]): RDD[((String),Double)] ={
 
-    val pair=rdd.flatMap{x=>x(1).toString.toLowerCase.split("(\\s|[.]|,)")}
-      .map(x=>(x,1)).reduceByKey(_+_)
-    return pair
+    val pair=rdd.flatMap{x=>
+      x(1).toString.toLowerCase.split("(\\s|[.]|,)") }
+      .map(x=>(x,1.0)).reduceByKey(_+_)
+     pair
   }
 
 
