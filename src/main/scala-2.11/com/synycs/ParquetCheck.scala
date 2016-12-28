@@ -39,13 +39,16 @@ object ParquetCheck {
 
     val totalWord=tokensForAll(cachedRdd)
 
-    val ic=idfRdd.join(totalWord).values.map{
-      case (idf,totcount)=>{
+    val ic=idfRdd.join(totalWord).map{
+      case (id,(idf,totcount))=>{
         val countlog=math.log(totcount)
-        //(idf,co
+        (id,idf,idf*countlog)
       }
     }
 
+    ic.foreach{
+      println(_)
+    }
 
 
     spark.stop()
