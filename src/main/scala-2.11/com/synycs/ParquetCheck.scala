@@ -46,10 +46,7 @@ object ParquetCheck {
       }
     }
 
-    ic.foreach{
-      println(_)
-    }
-
+    spark.createDataFrame(ic).toDF("Id","IDF","InformationCount").write.csv("/home/synycs/idfdata.csv")
 
     spark.stop()
 
